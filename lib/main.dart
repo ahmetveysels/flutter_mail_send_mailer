@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'screen/contact_us.dart';
 
 void main() => runApp(MyApp());
