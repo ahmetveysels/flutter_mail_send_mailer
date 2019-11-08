@@ -1,7 +1,7 @@
 # flutter_mail_send_mailer
 
-Bu Flutter projesinde 'mailer' eklentisi ile nasıl mail gönderme işlemi yapılır onu anlattık.
-In this Flutter project, we explained how to send mail with 'mailer' plugin.
+#Bu Flutter projesinde 'mailer' eklentisi ile nasıl mail gönderme işlemi yapılır onu anlattık.
+#In this Flutter project, we explained how to send mail with 'mailer' plugin.
 
 ## Getting Started
 
