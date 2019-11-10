@@ -19,7 +19,7 @@ Future<bool> sendMail(String name, String email, String subject,
             children: <Widget>[
               Text(
                 "Mesaj Gönderiliyor...\nMessage Sending",
-                style: TextStyle(color: Colors.white),
+                style: TextStyle(color: Colors.white,fontSize: 18),
               ),
               CircularProgressIndicator(),
             ],
